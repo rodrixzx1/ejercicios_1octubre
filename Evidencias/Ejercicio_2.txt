@@ -1,0 +1,13 @@
+Menú de opciones:
+1. Ejercicio 1
+2. Ejercicio 2
+3. Salir
+Ingrese el número de la opción deseada: 2
+Ingrese el valor de n: 5
+El valor aproximado de n! es: 118.01916795759008
+Menú de opciones:
+1. Ejercicio 1
+2. Ejercicio 2
+3. Salir
+Ingrese el número de la opción deseada: 3
+Saliendo del programa...
